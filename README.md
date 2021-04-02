@@ -39,6 +39,4 @@ There were some predictable results when analyzing data for total rides, drivers
 - Average Fare/Driver
   - Similar relationship as average fare/ride:greatest average far in rural areas ($55.49), second greatest in suburban areas ($39.50), and lowest average fare per driver in urban cities ($16.57)
   - Disparity amongst these values were more accentuated with rural cities having more than 3 times greater average fare/driver vs. urban areas.
-  - suburban areas had a two times greater average far/driver vs. urban areas. 
-
-*See PyBer_Challenge.ipynb to reference the above DataFrame if necessary*
+  - suburban average fare/driver was two times larger than that of urban cities. 
