@@ -4,10 +4,8 @@ Analysing PyBer ride-sharing data in rural, sub-urban, and urban areas to provid
 ## Results 
 ### Summary Data 
 There were some predictable results when analyzing data for total rides, drivers, fares, and their averages across different city types. The results are as follows (reference the summary dataframe pictured in the image below:
-
-<img width="635" alt="rideshare_summary" src="https://user-images.githubusercontent.com/79600550/113447157-4c21f180-93c7-11eb-99ae-5d1bf2b334ad.png">
-
 *From PyBer_Challenge.ipynb in Resources Folder*
+<img width="635" alt="rideshare_summary" src="https://user-images.githubusercontent.com/79600550/113447157-4c21f180-93c7-11eb-99ae-5d1bf2b334ad.png">
 
 - Total Rides 
   - total rides were greatest in urban cities (1,625), second largest in suburban (625), and smallest in rural areas (125). 
@@ -30,13 +28,19 @@ There were some predictable results when analyzing data for total rides, drivers
   - Total fares were four times greater in suburban cities vs rural city areas.
   
 - Average Fare/Ride 
-  - based on the data above, the average fare per ride represented an inverse relationship: 
+  - The average fare per ride represented an inverse relationship in comparison with the above pieces of data: 
     - highest average fare/ride seen in rural cities ($34.62)
     - Second highest in suburban areas ($30.97)
     - Lowest average fare in urban city types ($24.53)
-  - Disparity amongst these values were tighter, ranging anywhere around 10-50% greater or less than. 
+  - Disparity amongst these values were tighter, ranging anywhere around 10-50% greater in respective city types. 
 
 - Average Fare/Driver
   - Similar relationship as average fare/ride:greatest average far in rural areas ($55.49), second greatest in suburban areas ($39.50), and lowest average fare per driver in urban cities ($16.57)
   - Disparity amongst these values were more accentuated with rural cities having more than 3 times greater average fare/driver vs. urban areas.
   - suburban average fare/driver was two times larger than that of urban cities. 
+
+### Weekly Data (January - April 2019)
+
+<img width="857" alt="Screen Shot 2021-04-04 at 10 35 07 AM" src="https://user-images.githubusercontent.com/79600550/113512213-8c04e800-9531-11eb-8d0c-4751342df661.png">
+
+*See also in Resources Folder - *
