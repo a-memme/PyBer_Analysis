@@ -40,8 +40,17 @@ There were some predictable results when analyzing data for total rides, drivers
   - Disparity amongst these values were more accentuated with rural cities having more than 3 times greater average fare/driver vs. urban areas.
   - suburban average fare/driver was two times larger than that of urban cities. 
 
-### Weekly Data (January - April 2019)
+### Weekly Fare($) Data (January - April 2019)
+Some new inferences as well as some similar deductions made regarding the summary data, can be confirmed when analyzing the total fare data across the first four months of 2019 (see image below):
+
+- total fares for urban city types was substantially larger across all months, followed by suburban, and lastly, lowest in rural city areas. 
+- total fares across all city types followed generally a similar pattern through the months of January - April. 
+  -   a slight spike in total fares toward the end of February/beginning of March. 
+  -   a very gradual increase through January to April- although this trend is apparently quite minor. 
+
 
 <img width="857" alt="Screen Shot 2021-04-04 at 10 35 07 AM" src="https://user-images.githubusercontent.com/79600550/113512213-8c04e800-9531-11eb-8d0c-4751342df661.png">
 
-*See also in Analysis folder - Pyber_summary_*
+*See also in Analysis folder - Pyber_fare_summary.png*
+
+## Summary
