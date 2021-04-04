@@ -44,4 +44,4 @@ There were some predictable results when analyzing data for total rides, drivers
 
 <img width="857" alt="Screen Shot 2021-04-04 at 10 35 07 AM" src="https://user-images.githubusercontent.com/79600550/113512213-8c04e800-9531-11eb-8d0c-4751342df661.png">
 
-*See also in Resources Folder - *
+*See also in Analysis folder - Pyber_summary_*
