@@ -27,7 +27,7 @@ There were some predictable results when analyzing data for total rides, drivers
   - Largest number of total fares coming from urban city areas ($39, 854), second largest from suburban ($19,356), and smallest total fare amount from rural areas ($4,328). 
   - Total fares were almost exactly double in Urban areas vs. Suburban areas 
   - Total fares were approxiamtely nine times greater in urban areas vs. rural areas 
-  -Total fares were four times greater in suburban cities vs rural city areas.
+  - Total fares were four times greater in suburban cities vs rural city areas.
   
 - Average Fare/Ride 
   - based on the data above, the average fare per ride represented an inverse relationship: 
