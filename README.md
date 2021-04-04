@@ -5,7 +5,7 @@ Analysing PyBer ride-sharing data in rural, sub-urban, and urban areas to provid
 ### Summary Data 
 There were some predictable results when analyzing data for total rides, drivers, fares, and their averages across different city types. The results are as follows (reference the summary dataframe pictured below):
 
-*From PyBer_Challenge.ipynb in Resources Folder*
+*From PyBer_Challenge.ipynb*
 <img width="635" alt="rideshare_summary" src="https://user-images.githubusercontent.com/79600550/113447157-4c21f180-93c7-11eb-99ae-5d1bf2b334ad.png">
 
 - Total Rides 
